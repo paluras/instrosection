@@ -14,7 +14,7 @@ const [click, setClick] = useState(false)
         <nav>
         
         <div className='left-side-nav'>
-            <img src='src\assets\logo.svg'></img>
+            <img src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/logo.svg'></img>
             
                 <button className='dropDownBtn'>Features 
                 <img className='notHovered' src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-arrow-down.svg'></img>
