@@ -17,18 +17,18 @@ const [click, setClick] = useState(false)
             <img src='src\assets\logo.svg'></img>
             
                 <button className='dropDownBtn'>Features 
-                <img className='notHovered' src='src\assets\icon-arrow-down.svg'></img>
-                <img className='hovered' src='src\assets\icon-arrow-up.svg'></img>
+                <img className='notHovered' src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-arrow-down.svg'></img>
+                <img className='hovered' src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-arrow-up.svg'></img>
                     <div className='dropDown'>
-                        <a><img src='src\assets\icon-calendar.svg'></img>    To do</a>
-                        <a><img src='src\assets\icon-calendar.svg'></img>    Calendar</a>
-                        <a><img src='src\assets\icon-calendar.svg'></img>    Reminders</a>
-                        <a><img src='src\assets\icon-calendar.svg'></img>    Planing</a>
+                        <a><img src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-calendar.svg'></img>    To do</a>
+                        <a><img src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-planning.svg'></img>    Calendar</a>
+                        <a><img src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-reminders.svg'></img>    Reminders</a>
+                        <a><img src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-todo.svg'></img>    Planing</a>
                     </div>
                 </button>
                 <button className='dropDownBtn'>Company  
-                <img className='notHovered' src='src\assets\icon-arrow-down.svg'></img>
-                <img className='hovered' src='src\assets\icon-arrow-up.svg'></img>
+                <img className='notHovered' src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-arrow-down.svg'></img>
+                <img className='hovered' src='https://raw.githubusercontent.com/paluras/instrosection/fa1b9d4125abbb63757c254a14190cc9572de1be/src/assets/icon-arrow-up.svg'></img>
                     <div className='dropDown'>
                         <a>Histoy</a>
                         <a>Our Team</a>
