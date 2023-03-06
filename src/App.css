@@ -262,9 +262,11 @@ button:hover{
   border-radius: 10px;
   
 }
+
+
 .dropDown-x a {
   color: hsl(0, 0%, 8%);
-  padding: 10px  ;
+  padding-top: 10px  ;
   text-decoration: none;
   display: flex;
   text-align: start;
