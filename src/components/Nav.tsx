@@ -43,7 +43,7 @@ const [click, setClick] = useState(false)
           <button>Login</button>
           <button className='registerBtn'>Register</button>
           <img onClick={handleClick} 
-          className='menu' src='src\assets\icon-menu.svg'></img>
+          className='menu' src='https://raw.githubusercontent.com/paluras/instrosection/cb730e3afb5e295cc8150e9443eb7832a15bba63/src/assets/icon-menu.svg'></img>
         </div>
         </nav>
 
