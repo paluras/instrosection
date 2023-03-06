@@ -77,7 +77,12 @@ const [click, setClick] = useState(false)
             <button className="x-btn">Careers</button>
             <button className="x-btn">About</button>
             
+          
         </div>
+        <div className='right-side-nav-x'>
+            <button>Login</button>
+          <button className='registerBtn-x'>Register</button>
+            </div>
         </nav>: null }
         
         </div>
