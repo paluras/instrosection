@@ -50,7 +50,7 @@ const [click, setClick] = useState(false)
         {click? <nav className="mobile-menu">
         <div className="x">
         <img onClick={handleClick} 
-          className='menu-close' src='src\assets\icon-close-menu.svg'></img>
+          className='menu-close' src='https://raw.githubusercontent.com/paluras/instrosection/1df56129faac12e747d7f0f1092578711d36d3f6/src/assets/icon-close-menu.svg'></img>
           </div>
           <div className='left-side-nav-x'>
            
